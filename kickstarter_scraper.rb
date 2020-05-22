@@ -1,6 +1,5 @@
 # require libraries/modules here
 require "nokogiri"
-require "open-uri"
 require "pry"
 
 # projects: kickstarter.css("li.project.grid_4")
