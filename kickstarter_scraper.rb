@@ -21,5 +21,3 @@ require "pry"
   end
   projects
 end
-
-
